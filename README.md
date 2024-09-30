@@ -155,9 +155,9 @@ Este ejemplo crea un sistema de transporte con seis estaciones, establece conexi
 - El algoritmo de Dijkstra garantiza encontrar la ruta más corta en términos de costo total.
 - Si no existe una ruta entre las estaciones de inicio y destino, el método `encontrar_ruta_optima` devolverá una lista vacía.
 
-## Link Video Davis Galan Grafo
+## Link Video GRUPO
 
-www.youtube.com/watch?v=-C1EPrIHt04
+https://youtu.be/lGo5yJgvpg0
 
 
 
